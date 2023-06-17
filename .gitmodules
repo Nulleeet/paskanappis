@@ -10,3 +10,6 @@
 [submodule "KiCad/60ish_paska/keebio-components"]
 	path = KiCad/60ish_paska/keebio-components
 	url = https://github.com/keebio/keebio-components
+[submodule "pcb builder/layout/Keebio-Parts.pretty"]
+	path = pcb builder/layout/Keebio-Parts.pretty
+	url = https://github.com/keebio/Keebio-Parts.pretty

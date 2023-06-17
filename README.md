@@ -6,7 +6,7 @@ Planning to use [kicad](https://www.kicad.org), [qmk](https://qmk.fm), [via](htt
 
 I tried already earlier to do this without Pro Micros, but I failed it and now the files are gone due to my hdd exploding.
 
-So now Im going to upload everything here while im going forward with this. You can suggest and help me with everything, if you see some flaws or anything.
+So now Im going to upload everything here while im going forward with this. You can suggest and help me with everything, if you see some flaws or something.
 
 Layout made in [KLE](http://www.keyboard-layout-editor.com).
 

@@ -4464,7 +4464,7 @@
     (property "Value" "Elite-C" (at 445.77 36.83 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "" (at 472.44 119.38 90)
+    (property "Footprint" "Keebio-Parts:Elite-C" (at 472.44 119.38 90)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 472.44 119.38 90)

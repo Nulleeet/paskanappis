@@ -1,5 +1,5 @@
 # paskanäppis
-60% keyboard with ISO kc_nubs and f-row
+60% keyboard with ISO kc_nubs and f-row - so its really like 70% or 75%, or between, I dont know. I call it either paskanäppis or 60ish.
 
 This is my learning opportunity to make and design my own keyboard.
 Planning to use [kicad](https://www.kicad.org), [qmk](https://qmk.fm), [via](https://www.caniusevia.com) and/or [vial](https://get.vial.today) and some 3d software (still planning what to use), and 3dprint case, for starters.

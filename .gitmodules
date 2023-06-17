@@ -13,3 +13,9 @@
 [submodule "pcb builder/layout/Keebio-Parts.pretty"]
 	path = pcb builder/layout/Keebio-Parts.pretty
 	url = https://github.com/keebio/Keebio-Parts.pretty
+[submodule "pcb builder/layout/keebio-components"]
+	path = pcb builder/layout/keebio-components
+	url = https://github.com/keebio/keebio-components
+[submodule "pcb builder/layout/random-keyboard-parts.pretty"]
+	path = pcb builder/layout/random-keyboard-parts.pretty
+	url = https://github.com/ai03-2725/random-keyboard-parts.pretty

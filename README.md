@@ -13,3 +13,9 @@ Layout made in [KLE](http://www.keyboard-layout-editor.com).
 
 ![Image of Layout](/KLE/nullenpaskan%C3%A4ppis.png)
 ![Summary of switches](KLE/switches_summaru.JPG)
+
+TO-DO list:
+
+- Routes in kicad
+- Design a 3dprintable case
+- 'Design' a acrylic case?

@@ -16,6 +16,7 @@ Layout made in [KLE](http://www.keyboard-layout-editor.com).
 
 TO-DO list:
 
-- Routes in kicad
+- Traces in kicad
+- Reposition Elite-C
 - Design a 3dprintable case
 - 'Design' a acrylic case?

@@ -21,3 +21,4 @@ TO-DO list:
 - make qmk/via/vial code
 - Design a 3d printable case
 - ('Design' a acrylic case?)
+- figure out how to mounting holes and screws when at that point.

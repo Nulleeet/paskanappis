@@ -176,7 +176,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 00b9e4c6-0efa-4fb6-ab01-c0a3234031c0)
-    (at 258.445 120.65)
+    (at 258.79375 121.475)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/623f85d7-c4c8-4af8-b9c9-d6a2ab3af508")
@@ -228,7 +228,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 0379a39f-ef4b-4c6a-a6e8-4bfaaaf75796)
-    (at 134.62 101.6)
+    (at 134.96875 102.425)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/78175b5a-3a46-4f45-95e8-a06909dbcf8c")
@@ -280,7 +280,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 09f90f20-39a1-4149-8f8a-21f228c3fd4b)
-    (at 282.2575 82.55)
+    (at 282.60625 83.375)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/70744853-80bf-4b38-b631-ba82882fd5fa")
@@ -332,7 +332,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 0a806e30-1eea-4446-95e8-c0a343780824)
-    (at 244.1575 63.5)
+    (at 244.50625 64.325)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/6f98affb-a093-44ba-b93f-660de38251d3")
@@ -384,7 +384,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 0c92206e-07f2-4f0e-a285-0dbdcc596a0b)
-    (at 96.52 139.7)
+    (at 96.86875 140.525)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/029f78cd-11d5-4fec-9862-25475d9e8b13")
@@ -436,7 +436,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 0ff45cd5-1490-4bf5-91e4-6805da070a7d)
-    (at 248.92 139.7)
+    (at 249.26875 140.525)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/2c3a6291-2604-4766-9b98-2b3b3164da4d")
@@ -488,7 +488,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 11b4dc61-0851-4201-a9ff-887884588d09)
-    (at 77.47 101.6)
+    (at 77.81875 102.425)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/daa0a2ff-40b8-4e0f-b4ed-7a641d55b95d")
@@ -540,7 +540,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 160ca849-4fc5-490b-ad25-494fb1afdd7e)
-    (at 53.6575 82.55)
+    (at 54.00625 83.375)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/d37e18df-ad9f-4e7e-b5e3-712211c12e2c")
@@ -592,7 +592,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 1bfa655c-8531-477d-b5a3-1e510188d14f)
-    (at 206.0575 82.55)
+    (at 206.40625 83.375)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/7ddbb439-fba9-4ede-8573-c65fda736f67")
@@ -644,7 +644,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 1d84d165-09eb-4c34-9f3b-5617c79cf212)
-    (at 263.2075 82.55)
+    (at 263.55625 83.375)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/a24c766e-e7e8-475d-a017-d930d1518905")
@@ -696,7 +696,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 247e7e4f-9fa4-4684-b6cb-e190290b7ae9)
-    (at 320.3575 63.5)
+    (at 320.70625 64.325)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/b9385247-7235-4e5b-b9f3-58cb0101e7de")
@@ -748,7 +748,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 27dc1cb6-9eab-466e-9f75-80e5435d254e)
-    (at 167.9575 63.5)
+    (at 168.30625 64.325)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/ee318fe7-76f3-4fa8-a380-e50346d70660")
@@ -800,7 +800,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1.75U-NoLED" (layer "F.Cu")
     (tstamp 2b8cffef-e5a4-433d-9912-0eb88610c38c)
-    (at 313.21375 101.6)
+    (at 313.5625 102.425)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/b977c95f-1846-45b3-b475-8dc3b0d75a04")
@@ -852,7 +852,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1.25U-NoLED" (layer "F.Cu")
     (tstamp 2e4a780d-e4e6-4ed0-adb6-ac456b4dd216)
-    (at 270.35125 158.75)
+    (at 270.7 159.575)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/564c4726-8950-4bc4-aa63-470d27ae220c")
@@ -904,7 +904,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 2e798599-d76a-4ff5-97f6-dc1e49deb794)
-    (at 201.295 120.65)
+    (at 201.64375 121.475)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/071407f1-fc8d-4e0a-b845-7e6c67a90935")
@@ -956,7 +956,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 30c09ab4-129e-4afd-91c4-9807f970adab)
-    (at 248.92 101.6)
+    (at 249.26875 102.425)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/2fcaaab2-b469-4de6-bf21-46dfab7299e9")
@@ -1008,7 +1008,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 31f04ad3-1183-4c16-8fad-640595be73a4)
-    (at 191.77 101.6)
+    (at 192.11875 102.425)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/3b3ffdef-1180-44bf-b173-0cad7c4bda2d")
@@ -1060,7 +1060,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 33f65c12-6c2f-489b-8b4c-7a2e05e85eb9)
-    (at 282.2575 63.5)
+    (at 282.60625 64.325)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/bdba7e91-6cfb-4529-b3e0-c25ebb3b11ed")
@@ -1112,7 +1112,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1.25U-NoLED" (layer "F.Cu")
     (tstamp 3878bf18-43cd-4ee3-8b97-a48f9d75d77a)
-    (at 246.53875 158.75)
+    (at 246.8875 159.575)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/66926285-b4ca-4b2f-ab41-b77cfb71cc6a")
@@ -1164,7 +1164,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1.25U-NoLED" (layer "F.Cu")
     (tstamp 3f3e1438-faaa-4902-be59-797d61e5d2f2)
-    (at 79.85125 158.75)
+    (at 80.2 159.575)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/ae71723f-4c4b-4bb6-9dba-421644665509")
@@ -1216,7 +1216,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1.75U-NoLED" (layer "F.Cu")
     (tstamp 4320294e-8245-403c-9b33-9bb989f89c5c)
-    (at 60.80125 120.65)
+    (at 61.15 121.475)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/7c334fed-b169-4ba8-8b1e-9684b9ec296d")
@@ -1268,7 +1268,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 46618bcc-aa16-40aa-8bea-7f4bd93775d2)
-    (at 225.1075 82.55)
+    (at 225.45625 83.375)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/f7349a50-f21b-4b1c-a759-b86003346aa8")
@@ -1320,7 +1320,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 50e17a55-334d-4680-824e-64a761c63c93)
-    (at 239.395 120.65)
+    (at 239.74375 121.475)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/2da27f0e-02d2-452d-bffb-d5f9b9a45b23")
@@ -1372,7 +1372,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 544ff8bf-d98e-43e9-b16d-bf3576adc6d5)
-    (at 163.195 120.65)
+    (at 163.54375 121.475)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/c701fd22-fa75-4931-a0d3-87af6890aea0")
@@ -1424,7 +1424,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 54719be2-1f54-4159-a440-9507dc2da765)
-    (at 277.495 120.65)
+    (at 277.84375 121.475)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/3c11d810-a446-4e04-bf98-12aaf7d56f9b")
@@ -1476,7 +1476,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 56d5dc0f-a56a-49b0-8895-18eff434539b)
-    (at 191.77 139.7)
+    (at 192.11875 140.525)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/05d353fd-0b76-40cf-9896-1b01716f7ab9")
@@ -1528,7 +1528,7 @@
 
   (footprint "Keebio-Parts:Elite-C" (layer "F.Cu")
     (tstamp 56e9981e-51f6-47fe-a2d2-5c1c51c180b3)
-    (at 90.909975 68.746555 -90)
+    (at 91.258725 69.571555 -90)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/95166d57-6da9-4836-904d-53a711fe993b")
@@ -1970,7 +1970,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 643b2e01-ea02-47b5-95c7-c305a304d718)
-    (at 115.57 101.6)
+    (at 115.91875 102.425)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/5b73da32-60b7-452e-a564-e17f43a5cb68")
@@ -2022,7 +2022,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 699881aa-2dca-4a23-acd6-29c6ba4b301b)
-    (at 115.57 139.7)
+    (at 115.91875 140.525)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/2b56f1e3-6cb8-465b-8848-1bb565af5d3b")
@@ -2074,7 +2074,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 6c0f9e27-1661-467d-9832-2399b084febc)
-    (at 187.0075 63.5)
+    (at 187.35625 64.325)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/d312f7ef-b0d0-4118-8792-142d8ab2719c")
@@ -2126,7 +2126,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-6.25U-NoLED" (layer "F.Cu")
     (tstamp 6d3dc62d-1e3f-4e74-aa9c-cb6d341be8c1)
-    (at 175.10125 158.75)
+    (at 175.45 159.575)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/06ab31d7-9d52-4390-aacb-ed12c028a081")
@@ -2182,7 +2182,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 6e05ae4b-ccfe-4d5c-87c7-1bad8e280a47)
-    (at 125.095 120.65)
+    (at 125.44375 121.475)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/8bbd8548-6e98-4a25-97d4-1c8ad7e56db8")
@@ -2234,7 +2234,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1.25U-NoLED" (layer "F.Cu")
     (tstamp 7693fa3b-2126-4a2c-ad20-f03efdb100d3)
-    (at 56.03875 101.6)
+    (at 56.3875 102.425)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/0220983b-dba4-4434-804e-41b2359abbe2")
@@ -2286,7 +2286,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 7b2fa635-7c75-4313-ba20-da38f1ddd761)
-    (at 225.1075 63.5)
+    (at 225.45625 64.325)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/1afe399d-337b-45ec-a561-2055039c00d7")
@@ -2338,7 +2338,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 7fbd48bb-e125-4c6a-aa4e-31d8abc91a7f)
-    (at 134.62 139.7)
+    (at 134.96875 140.525)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/e89cc7cb-efc5-4d56-af7c-6d62f0cfe462")
@@ -2390,7 +2390,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 80b3e5ca-2784-4e16-9030-5a53364e5faa)
-    (at 267.97 101.6)
+    (at 268.31875 102.425)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/3c4201c4-5fa7-4097-9d25-d804f6415466")
@@ -2442,7 +2442,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 841748c2-2542-49d2-91b0-1c5d166568ea)
-    (at 91.7575 63.5)
+    (at 92.10625 64.325)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/8a007bee-0e47-42d5-9a95-7d292f1ddc20")
@@ -2494,7 +2494,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 9022c354-9db9-442a-bca3-57b7f7ed4ec6)
-    (at 96.52 101.6)
+    (at 96.86875 102.425)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/6ac13617-3a8f-44c8-a6d3-f5652da2fb67")
@@ -2546,7 +2546,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 91054dc8-de87-4e45-9c5d-feb1614c1765)
-    (at 167.9575 82.55)
+    (at 168.30625 83.375)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/f01aef3c-4f8e-43b6-a79e-c72239030056")
@@ -2598,7 +2598,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 96125d32-c263-4d49-a0c4-4755edfc5771)
-    (at 244.1575 82.55)
+    (at 244.50625 83.375)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/c0872cee-cda3-4496-ae3b-d5cf89eb3cbd")
@@ -2650,7 +2650,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 98333a3f-06d2-497f-94ce-35fa7471fe58)
-    (at 110.8075 82.55)
+    (at 111.15625 83.375)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/20929668-cdac-4b27-a681-d9f91ccc77e2")
@@ -2702,7 +2702,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 9a41a021-8381-445c-af0c-60196cd13f6f)
-    (at 210.82 101.6)
+    (at 211.16875 102.425)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/d9728e6c-a27f-4f39-b997-4511f9e77991")
@@ -2754,7 +2754,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 9a4314ea-c205-4ce9-adc8-cd7e3eb73ff9)
-    (at 77.47 139.7)
+    (at 77.81875 140.525)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/7dc687d3-c487-46da-8799-b4c5f57dddce")
@@ -2806,7 +2806,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 9d8f87ae-7058-4f26-8dc5-4d050fbed0ee)
-    (at 267.97 139.7)
+    (at 268.31875 140.525)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/fbd28642-b409-4b5c-8dd8-d1d8ed90f416")
@@ -2858,7 +2858,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp a03d4791-8597-40c3-a293-b297e52fb852)
-    (at 153.67 101.6)
+    (at 154.01875 102.425)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/2425d040-d87d-41a0-9599-51fbefcc076b")
@@ -2910,7 +2910,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp a0a4fd30-7401-4f17-ab20-48d709be318a)
-    (at 263.2075 63.5)
+    (at 263.55625 64.325)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/88cc2f0f-637d-42dc-a3df-a9d76820675f")
@@ -2962,7 +2962,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1.25U-NoLED" (layer "F.Cu")
     (tstamp a13a4ff3-0551-4449-af5e-fd8feda017b4)
-    (at 56.03875 158.75)
+    (at 56.3875 159.575)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/9a08219f-3b3e-4059-abef-d7850860fc0a")
@@ -3014,7 +3014,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp a1b2021c-8502-438a-a60a-57e8ea26dc29)
-    (at 229.87 101.6)
+    (at 230.21875 102.425)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/cf18e1b4-4ca8-4747-a177-85ba10ac2edd")
@@ -3066,7 +3066,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp a2bc3e92-fcc4-48d7-aa40-d1fe81966860)
-    (at 110.8075 63.5)
+    (at 111.15625 64.325)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/a4773ffe-a1b2-41fb-ab21-93697efca823")
@@ -3118,7 +3118,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp a2e8e8e2-7c7c-436f-af29-8fc79021b3e5)
-    (at 172.72 101.6)
+    (at 173.06875 102.425)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/a0d4bf08-919c-4669-892a-d7e1cfd5c42f")
@@ -3170,7 +3170,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1.25U-NoLED" (layer "F.Cu")
     (tstamp a418fae7-f10c-4ef4-90e5-14192fa1f976)
-    (at 317.97625 158.75)
+    (at 318.325 159.575)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/d0d13bf7-8dcd-47f3-986e-258d1951d241")
@@ -3222,7 +3222,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp a458af64-f998-405a-a1f6-2278cd05cde5)
-    (at 301.3075 63.5)
+    (at 301.65625 64.325)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/679634ef-34de-4d1e-91c3-92b1f8e9bb59")
@@ -3274,7 +3274,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp a556cdd3-f0ac-400a-8ef7-da066a27468b)
-    (at 220.345 120.65)
+    (at 220.69375 121.475)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/89814c54-623d-4bed-9fc2-64690099fcd5")
@@ -3326,7 +3326,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-2.75U-NoLED" (layer "F.Cu")
     (tstamp a606a4bc-0ce1-464b-b3fe-56904c679bed)
-    (at 303.68875 139.7)
+    (at 304.0375 140.525)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/b925271c-b02f-4c8a-95cd-cc9b612caf61")
@@ -3382,7 +3382,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1.25U-NoLED" (layer "F.Cu")
     (tstamp a649e39f-1e60-403a-88e6-7686bd74a615)
-    (at 103.66375 158.75)
+    (at 104.0125 159.575)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/fdcba2a0-2944-4709-982e-deab31e91b09")
@@ -3434,7 +3434,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp a7c19866-b7c3-4d4d-ac97-f86e6aaeeec7)
-    (at 148.9075 82.55)
+    (at 149.25625 83.375)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/671e29f6-efd9-4b9a-95d4-40b86b8f29a6")
@@ -3486,7 +3486,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp a9eaacbc-f01a-4f27-82d4-d7f48a822581)
-    (at 72.7075 82.55)
+    (at 73.05625 83.375)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/899b3c4e-e110-4ec3-87c3-ef474f8f0b25")
@@ -3538,7 +3538,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp b1b1fd68-2d73-49c0-afe8-31c905a376f5)
-    (at 144.145 120.65)
+    (at 144.49375 121.475)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/8091ed6a-3255-42b0-832f-9b24fb6cc6c4")
@@ -3590,7 +3590,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp b6fb451c-3719-4835-8123-33e60697664c)
-    (at 153.67 139.7)
+    (at 154.01875 140.525)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/32832a77-dc50-4f53-b243-bece20273601")
@@ -3642,7 +3642,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp b85059a6-e6e9-42b3-850c-bd7636dcd003)
-    (at 182.245 120.65)
+    (at 182.59375 121.475)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/e40a3478-4316-486b-8659-53fdb7f62d75")
@@ -3694,7 +3694,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp ba47b79a-4371-4aab-8319-4807d7240ddc)
-    (at 206.0575 63.5)
+    (at 206.40625 64.325)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/3293d065-35b2-4df4-86ce-268b811964d6")
@@ -3746,7 +3746,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp bcdfaad6-50c9-457c-b78a-57951383eef1)
-    (at 129.8575 63.5)
+    (at 130.20625 64.325)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/54e17f11-2e85-46ef-b0c9-d3c25dec868a")
@@ -3798,7 +3798,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1.25U-NoLED" (layer "F.Cu")
     (tstamp bd150c5b-3e68-4cb3-ba0c-52309905ecf4)
-    (at 56.03875 139.7)
+    (at 56.3875 140.525)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/f369b86c-dc0d-46c1-8a98-b6dd4c42cda2")
@@ -3850,7 +3850,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp bf9ffcd1-3f0d-41fd-8018-b884237b2331)
-    (at 53.6575 63.5)
+    (at 54.00625 64.325)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/c04b5825-dd9b-414d-8053-ae00079036f5")
@@ -3902,7 +3902,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp c266ebd5-638a-4f23-ac8e-55379d147c7e)
-    (at 106.045 120.65)
+    (at 106.39375 121.475)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/f205e049-7e37-43f8-9a55-a380e66c890e")
@@ -3954,7 +3954,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp cfc80f33-5f03-40e9-a22c-3450711abd2e)
-    (at 86.995 120.65)
+    (at 87.34375 121.475)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/a62cb2f8-3c37-4641-877b-caa71c001068")
@@ -4006,7 +4006,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp d8422427-fe6f-4c16-8cd7-d95bff0c8dca)
-    (at 72.7075 63.5)
+    (at 73.05625 64.325)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/a96b6818-8afd-4fa9-9560-2aa3b80e3a17")
@@ -4058,7 +4058,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp d98f4a83-9ece-4127-bc00-b2b0ddd2737b)
-    (at 91.7575 82.55)
+    (at 92.10625 83.375)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/a8f211ed-04dc-4a81-8a55-5a0dcfc51aea")
@@ -4110,7 +4110,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp db5b3102-ce4d-4208-8562-9f32d92f567f)
-    (at 229.87 139.7)
+    (at 230.21875 140.525)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/e32a3b50-715c-4e91-b242-fe49e5166cbd")
@@ -4162,7 +4162,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp dc2bf477-0e12-4b13-b5cd-9f813cbdf4ed)
-    (at 148.9075 63.5)
+    (at 149.25625 64.325)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/07f3d85b-59db-4169-858e-a80dc30dcaa6")
@@ -4214,7 +4214,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1.25U-NoLED" (layer "F.Cu")
     (tstamp de9a012f-dc32-4a38-be2f-ebf8ac5f6513)
-    (at 294.16375 158.75)
+    (at 294.5125 159.575)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/550ce26b-c70c-4331-bc76-0a9fd7bb8840")
@@ -4266,7 +4266,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp dfd5893d-7e8b-4094-83b4-ce8c60ac67f6)
-    (at 129.8575 82.55)
+    (at 130.20625 83.375)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/2912ec18-c602-413a-96b1-064d341383e7")
@@ -4318,7 +4318,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp e5abf2cf-43c6-476c-a55c-95bc3a6819d0)
-    (at 187.0075 82.55)
+    (at 187.35625 83.375)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/a2846935-0d16-477d-aa72-788f38ea2bf6")
@@ -4370,7 +4370,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-2U-NoLED" (layer "F.Cu")
     (tstamp e70d9b72-af25-4cfa-b5ef-b50f97894fa2)
-    (at 310.8325 82.55)
+    (at 311.18125 83.375)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/e6542f66-ca30-4f0b-b322-b8352e4af8f1")
@@ -4426,7 +4426,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-2.25U-NoLED" (layer "F.Cu")
     (tstamp ec65e837-316f-474a-822c-f0cfda6a427d)
-    (at 308.45125 120.65)
+    (at 308.8 121.475)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/be5c2be9-4a8a-45a3-a4b1-d6c387789d57")
@@ -4482,7 +4482,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp f57b8cb1-942b-4b0c-9085-5ee0c22fec77)
-    (at 172.72 139.7)
+    (at 173.06875 140.525)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/83d4687e-007a-4905-8d0d-843bfe1a975b")
@@ -4534,7 +4534,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp fa9a4f35-e352-47f4-863c-2f990b835a7e)
-    (at 210.82 139.7)
+    (at 211.16875 140.525)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/7592fbe4-c2fb-4255-8374-e083f551d1b4")
@@ -4586,7 +4586,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp fb8192b3-6a27-43fd-85fd-cdf958095d63)
-    (at 287.02 101.6)
+    (at 287.36875 102.425)
     (property "Sheetfile" "keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/d668eeb4-bf29-42aa-8f7b-593aa7c2e56a")
@@ -4638,7 +4638,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp 0542ac5d-69d6-4479-b74f-7a40c3f32c9b)
-    (at 119.3325 83.05 90)
+    (at 119.68125 83.875 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -4708,7 +4708,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp 09acadb4-0a83-45a6-a139-dd78abdbdb44)
-    (at 295.545 102.1 90)
+    (at 295.89375 102.925 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -4778,7 +4778,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp 13b2bb5f-5000-4ac2-b48c-7706e8b9c006)
-    (at 100.2825 83.05 90)
+    (at 100.63125 83.875 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -4848,7 +4848,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp 171f7683-c6c2-4b66-9e45-0cf130dfb571)
-    (at 276.495 140.2 90)
+    (at 276.84375 141.025 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -4918,7 +4918,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp 24599e65-116e-4a7c-81b2-ef958628a9a9)
-    (at 228.87 121.15 90)
+    (at 229.21875 121.975 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -4988,7 +4988,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp 25e68cfa-106f-4d53-ae7a-387225b75feb)
-    (at 138.3825 83.05 90)
+    (at 138.73125 83.875 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -5058,7 +5058,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp 26fdfa45-ddad-4f17-bc0f-d6a490f5e4a7)
-    (at 271.7325 83.05 90)
+    (at 272.08125 83.875 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -5128,7 +5128,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp 2a64dbde-17ba-4f10-a693-f3b9ec4d0d3b)
-    (at 162.195 140.2 90)
+    (at 162.54375 141.025 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -5198,7 +5198,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp 2ea248b6-c9ca-406a-ab51-aec4b4a0e53a)
-    (at 133.62 121.15 90)
+    (at 133.96875 121.975 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -5268,7 +5268,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp 38edfc0d-b26c-43dd-8a2e-aa97f9beb19b)
-    (at 181.245 102.1 90)
+    (at 181.59375 102.925 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -5338,7 +5338,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp 39d3387e-421b-4d4e-b40e-5d1b528dfa83)
-    (at 328.8825 140.2 90)
+    (at 329.23125 141.025 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -5408,7 +5408,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp 3c3127d9-f976-46c1-ad05-ff88dc0ad7c3)
-    (at 290.7825 64 90)
+    (at 291.13125 64.825 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -5478,7 +5478,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp 3fcf404a-e4e2-443a-b261-16cbcc1aab72)
-    (at 195.5325 64 90)
+    (at 195.88125 64.825 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -5548,7 +5548,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp 400629d6-c250-4ec3-a98a-933b28ebd56c)
-    (at 152.67 121.15 90)
+    (at 153.01875 121.975 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -5618,7 +5618,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp 42877e28-4197-4325-abd1-51309361e773)
-    (at 257.445 159.25 90)
+    (at 257.79375 160.075 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -5688,7 +5688,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp 44efa636-7a60-4244-bd55-a98698c3501d)
-    (at 233.6325 64 90)
+    (at 233.98125 64.825 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -5758,7 +5758,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp 45158329-6b7f-4ec4-ad08-734840122ac0)
-    (at 100.774788 63.730764 90)
+    (at 101.123538 64.555764 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -5828,7 +5828,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp 49cd44fd-0a69-4255-a209-307a4bdd4d48)
-    (at 80.020119 63.770147 -90)
+    (at 80.368869 64.595147 -90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -5898,7 +5898,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp 4a4cd67c-dce7-4517-bd30-dd581ada36e9)
-    (at 200.295 102.1 90)
+    (at 200.64375 102.925 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -5968,7 +5968,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp 4cd2417e-b3c5-46b1-891e-5c9c529ef62b)
-    (at 181.245 140.2 90)
+    (at 181.59375 141.025 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -6038,7 +6038,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp 4db3bfda-26e5-4651-968e-7ec3db2a5e57)
-    (at 266.97 121.15 90)
+    (at 267.31875 121.975 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -6108,7 +6108,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp 5345b6d2-3188-46d6-83cd-8a08e4d7507b)
-    (at 76.47 121.15 90)
+    (at 76.81875 121.975 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -6178,7 +6178,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp 565e9104-b0fb-45f0-911c-609c13f53db4)
-    (at 281.2575 159.25 90)
+    (at 281.60625 160.075 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -6248,7 +6248,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp 5693ca0f-e5b7-42aa-968c-31adc1257fff)
-    (at 62.1825 83.05 90)
+    (at 62.53125 83.875 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -6318,7 +6318,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp 56982888-a8f5-4eb6-834d-e89035669c11)
-    (at 105.045 140.2 90)
+    (at 105.39375 141.025 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -6388,7 +6388,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp 577f8b74-b06a-462b-ba7e-01be0b5a3525)
-    (at 257.445 102.1 90)
+    (at 257.79375 102.925 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -6458,7 +6458,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp 5f754ad6-494b-4031-ab0d-14d79861af03)
-    (at 138.3825 64 90)
+    (at 138.73125 64.825 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -6528,7 +6528,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp 602f9e50-d7ca-4f22-b2bd-56b9c87ff7b8)
-    (at 233.6325 83.05 90)
+    (at 233.98125 83.875 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -6598,7 +6598,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp 63f24056-b7c4-43ed-817b-31c41d07c2c0)
-    (at 257.445 140.2 90)
+    (at 257.79375 141.025 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -6668,7 +6668,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp 661315c9-7546-4d36-bf70-06902e1d7a79)
-    (at 238.395 140.2 90)
+    (at 238.74375 141.025 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -6738,7 +6738,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp 680cecb2-cac8-42ed-95d7-d034645b9358)
-    (at 105.045 102.1 90)
+    (at 105.39375 102.925 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -6808,7 +6808,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp 692a0af5-1bc5-48b8-abc1-885211ac1103)
-    (at 143.145 140.2 90)
+    (at 143.49375 141.025 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -6878,7 +6878,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp 698fcf26-2853-4b23-8685-cd94814f623e)
-    (at 290.7825 83.05 90)
+    (at 291.13125 83.875 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -6948,7 +6948,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp 6bb92e4e-6856-4c4a-83d0-b9d668b8616a)
-    (at 238.395 102.1 90)
+    (at 238.74375 102.925 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -7018,7 +7018,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp 6d7645cc-b0a5-4033-ae29-ee70cc47bb41)
-    (at 95.52 121.15 90)
+    (at 95.86875 121.975 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -7088,7 +7088,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp 73ad865f-6a1d-4cdc-93e5-28ad26731d9b)
-    (at 124.095 140.2 90)
+    (at 124.44375 141.025 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -7158,7 +7158,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp 75516584-cdc4-49c7-85b9-60491148e418)
-    (at 209.82 121.15 90)
+    (at 210.16875 121.975 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -7228,7 +7228,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp 75d899df-d546-41b1-afb3-a58f82955cb9)
-    (at 214.5825 64 90)
+    (at 214.93125 64.825 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -7298,7 +7298,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp 7c42e4d2-0c80-43c7-a756-4301933d66c1)
-    (at 276.495 102.1 90)
+    (at 276.84375 102.925 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -7368,7 +7368,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp 7e1ce49e-62a0-4569-bc0c-5606ad5b42a2)
-    (at 190.77 121.15 90)
+    (at 191.11875 121.975 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -7438,7 +7438,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp 812ad847-9c7a-40e3-927b-fb6aa9d29850)
-    (at 219.345 102.1 90)
+    (at 219.69375 102.925 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -7508,7 +7508,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp 81ddf1a8-5092-424f-825c-b77d97c7255e)
-    (at 90.7575 159.25 90)
+    (at 91.10625 160.075 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -7578,7 +7578,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp 8252d6c6-9419-48ba-94eb-04e1811b83bd)
-    (at 195.5325 83.05 90)
+    (at 195.88125 83.875 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -7648,7 +7648,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp 84b68cfa-97e1-423c-a6cb-a4f17a27d7a5)
-    (at 328.8825 159.25 90)
+    (at 329.23125 160.075 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -7718,7 +7718,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp 874f34e0-c14a-4bb2-a75b-af3c5a5c302e)
-    (at 219.345 140.2 90)
+    (at 219.69375 141.025 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -7788,7 +7788,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp 903fc028-145b-4475-99ea-0a7481dbace5)
-    (at 176.4825 64 90)
+    (at 176.83125 64.825 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -7858,7 +7858,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp 92e74fe4-7f55-46f5-b9e8-b929eb1cbab9)
-    (at 328.8825 64 90)
+    (at 329.23125 64.825 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -7928,7 +7928,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp 94d048e2-d09f-45f6-85e6-77372bb1b3c3)
-    (at 214.5825 83.05 90)
+    (at 214.93125 83.875 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -7998,7 +7998,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp 9d88a165-a2f6-4500-8037-94a70f7ba83e)
-    (at 286.02 121.15 90)
+    (at 286.36875 121.975 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -8068,7 +8068,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp a2b8ab42-986d-425b-ad89-37db02e5cd5b)
-    (at 328.8825 102.1 90)
+    (at 329.23125 102.925 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -8138,7 +8138,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp a919792c-2135-44c0-8ad1-0d12722114d5)
-    (at 157.4325 83.05 90)
+    (at 157.78125 83.875 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -8208,7 +8208,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp ab867fae-184b-487a-9aeb-c5412a60296d)
-    (at 157.4325 64 90)
+    (at 157.78125 64.825 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -8278,7 +8278,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp ac3ac96c-2e04-4738-9eb2-e1b0231070fb)
-    (at 252.6825 64 90)
+    (at 253.03125 64.825 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -8348,7 +8348,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp acd0b11a-f833-4786-9839-49764a176611)
-    (at 66.945 102.1 90)
+    (at 67.29375 102.925 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -8418,7 +8418,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp af1facbe-2161-4c6f-ab92-16b5372cd367)
-    (at 114.57 121.15 90)
+    (at 114.91875 121.975 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -8488,7 +8488,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp afa94a2c-b96c-4386-bd33-24cbf4cdc5bf)
-    (at 62.1825 64 90)
+    (at 62.53125 64.825 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -8558,7 +8558,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp afdc4641-4a8a-4b31-89fd-234b5add80a8)
-    (at 171.72 121.15 90)
+    (at 172.06875 121.975 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -8628,7 +8628,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp b2954d3f-1fac-46c5-b657-c283d10faea0)
-    (at 200.295 140.2 90)
+    (at 200.64375 141.025 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -8698,7 +8698,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp b4d15b8d-81ad-4e48-8157-eb55fc2a6898)
-    (at 328.8825 83.05 90)
+    (at 329.23125 83.875 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -8768,7 +8768,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp b97f6863-c4a6-43e0-bfdc-edac21730604)
-    (at 81.2325 83.05 90)
+    (at 81.58125 83.875 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -8838,7 +8838,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp bd6283ee-afbf-43f6-97d6-7e4570a8fe58)
-    (at 114.57 159.25 90)
+    (at 114.91875 160.075 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -8908,7 +8908,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp beb0765d-97d4-4927-8f59-96758bde4280)
-    (at 119.3325 64 90)
+    (at 119.68125 64.825 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -8978,7 +8978,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp cdfb2075-db66-4ed0-9fb0-ddb07a0e8e61)
-    (at 309.8325 64 90)
+    (at 310.18125 64.825 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -9048,7 +9048,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp d02a99a5-9f5c-4511-bac2-27fd4bc3cdf2)
-    (at 124.095 102.1 90)
+    (at 124.44375 102.925 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -9118,7 +9118,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp d1fd040c-d4b7-4cf8-bd4b-9a3a8b1968e8)
-    (at 85.995 102.1 90)
+    (at 86.34375 102.925 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -9188,7 +9188,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp d665dd80-3d7b-4c61-bd7e-9256942381d6)
-    (at 66.945 140.2 90)
+    (at 67.29375 141.025 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -9258,7 +9258,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp d6a8dabb-9d43-4931-868e-08e918473e2e)
-    (at 143.145 102.1 90)
+    (at 143.49375 102.925 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -9328,7 +9328,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp d9ba9b31-9fd4-42fc-aa9d-fb6b68ec75eb)
-    (at 85.995 140.2 90)
+    (at 86.34375 141.025 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -9398,7 +9398,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp da64f22f-d763-4522-abf3-b024abf55e70)
-    (at 328.8825 121.15 90)
+    (at 329.23125 121.975 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -9468,7 +9468,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp dd28c0af-6395-451a-870f-fd43f3081051)
-    (at 252.6825 83.05 90)
+    (at 253.03125 83.875 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -9538,7 +9538,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp eb081c38-34ba-49d4-9c27-53535d086757)
-    (at 162.195 102.1 90)
+    (at 162.54375 102.925 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -9608,7 +9608,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp ebe34827-b00b-4ce6-91d7-983d516f6e18)
-    (at 271.7325 64 90)
+    (at 272.08125 64.825 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -9678,7 +9678,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp ec3dd69e-9e71-4f19-a829-2de697e0f317)
-    (at 233.6325 159.25 90)
+    (at 233.98125 160.075 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -9748,7 +9748,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp efd2c835-b842-412e-879f-0a211e53ccf1)
-    (at 247.92 121.15 90)
+    (at 248.26875 121.975 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -9818,7 +9818,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp f143c3d3-ce3d-42ce-b76e-bb2d753c72bb)
-    (at 305.07 159.25 90)
+    (at 305.41875 160.075 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -9888,7 +9888,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp f5c35689-1ae9-4c57-af48-aefa2d09338b)
-    (at 176.4825 83.05 90)
+    (at 176.83125 83.875 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -9958,7 +9958,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp f5d00aa2-6641-435d-93bc-238819febdeb)
-    (at 66.945 159.25 90)
+    (at 67.29375 160.075 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "keyboard.kicad_sch")
@@ -10026,21 +10026,29 @@
     )
   )
 
-  (gr_arc (start 333.8825 172.275) (mid 333.8825 172.275) (end 333.8825 172.275)
+  (gr_arc (start 334.16875 172.285735) (mid 334.16875 172.285735) (end 334.16875 172.285735)
     (stroke (width 0.2) (type solid)) (layer "Edge.Cuts") (tstamp 002c9623-ede4-46b3-abfd-c54b61468e77))
-  (gr_line (start 40.1325 172.275) (end 40.1325 49.975)
+  (gr_arc (start 41.328265 173.079484) (mid 40.767 172.847) (end 40.534516 172.285735)
+    (stroke (width 0.2) (type solid)) (layer "Edge.Cuts") (tstamp 043d2900-47b7-48d1-b2a0-d469d3ac0538))
+  (gr_arc (start 333.375 50.800001) (mid 333.936265 51.032485) (end 334.168749 51.59375)
+    (stroke (width 0.2) (type solid)) (layer "Edge.Cuts") (tstamp 3dd101a6-7c46-4068-8a56-ca552f139bf1))
+  (gr_line (start 40.534516 172.285735) (end 40.48125 51.59375)
     (stroke (width 0.2) (type solid)) (layer "Edge.Cuts") (tstamp 4c7aa0fb-3bac-449f-91dd-6a7beb5bd7ae))
-  (gr_arc (start 40.1325 49.975) (mid 40.1325 49.975) (end 40.1325 49.975)
+  (gr_arc (start 40.48125 51.59375) (mid 40.48125 51.59375) (end 40.48125 51.59375)
     (stroke (width 0.2) (type solid)) (layer "Edge.Cuts") (tstamp 8a37b7a8-11bd-475e-a9d1-cf31c2ca205f))
-  (gr_line (start 333.8825 49.975) (end 333.8825 172.275)
+  (gr_line (start 334.168749 51.59375) (end 334.16875 172.24375)
     (stroke (width 0.2) (type solid)) (layer "Edge.Cuts") (tstamp 9d810d6d-a9b4-4d5a-b2ff-37e20ce1af40))
-  (gr_line (start 40.1325 49.975) (end 333.8825 49.975)
+  (gr_line (start 41.275 50.8) (end 333.375 50.8)
     (stroke (width 0.2) (type solid)) (layer "Edge.Cuts") (tstamp 9e0f18da-6920-44a5-b480-60053a5e2ff7))
-  (gr_line (start 333.8825 172.275) (end 40.1325 172.275)
+  (gr_line (start 333.375 173.079484) (end 41.328265 173.079484)
     (stroke (width 0.2) (type solid)) (layer "Edge.Cuts") (tstamp a02369dc-ef82-4523-bb15-029ca54231bc))
-  (gr_arc (start 40.1325 172.275) (mid 40.1325 172.275) (end 40.1325 172.275)
+  (gr_arc (start 40.534516 172.285735) (mid 40.534516 172.285735) (end 40.534516 172.285735)
     (stroke (width 0.2) (type solid)) (layer "Edge.Cuts") (tstamp a2cecc9f-5d37-4e68-83d5-602ee3eea06c))
-  (gr_arc (start 333.8825 49.975) (mid 333.8825 49.975) (end 333.8825 49.975)
+  (gr_arc (start 40.48125 51.59375) (mid 40.713734 51.032484) (end 41.275 50.8)
+    (stroke (width 0.2) (type solid)) (layer "Edge.Cuts") (tstamp a50bb447-6b93-4ede-93fb-362ff1b317dc))
+  (gr_arc (start 334.168749 51.59375) (mid 334.168749 51.59375) (end 334.168749 51.59375)
     (stroke (width 0.2) (type solid)) (layer "Edge.Cuts") (tstamp b9d0f43b-e6c8-48e3-90b2-401069957c11))
+  (gr_arc (start 334.16875 172.285735) (mid 333.936266 172.847) (end 333.375001 173.079484)
+    (stroke (width 0.2) (type solid)) (layer "Edge.Cuts") (tstamp ee723d28-8ff1-445c-b8e4-7dc5f014fbda))
 
 )

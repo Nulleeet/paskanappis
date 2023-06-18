@@ -19,4 +19,4 @@ TO-DO list:
 - Traces in kicad
 - Reposition Elite-C
 - Design a 3d printable case
-(- 'Design' a acrylic case?)
+-('Design' a acrylic case?)

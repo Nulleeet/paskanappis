@@ -16,7 +16,8 @@ Layout made in [KLE](http://www.keyboard-layout-editor.com).
 
 TO-DO list:
 
-- Traces in kicad
-- Reposition Elite-C
+- Traces in kicad ✔️
+- Reposition Elite-C ✔️ used promicro instead and redid traces
+- make qmk/via/vial code
 - Design a 3d printable case
 - ('Design' a acrylic case?)
